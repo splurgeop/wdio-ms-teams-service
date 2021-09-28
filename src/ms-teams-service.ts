@@ -64,7 +64,7 @@ export default class MsTeamsService implements Services.ServiceInstance {
             description: "",
         };
 
-        this.testResultContainer.addTest(testName, testResult);
+       // this.testResultContainer.addTest(testName, testResult);
     }
 
     // async afterScenario(world: ITestCaseHookParameter, result: Frameworks.PickleResult): Promise<void> {
