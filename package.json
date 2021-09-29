@@ -41,7 +41,7 @@
         "test": "",
         "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
         "build": "tsc",
-        "prepublishOnly": "npm run test --passWithNoTests && npm run lint",
+        "prepublishOnly": "npm run lint",
         "release": "standard-version"
     },
     "lint-staged": {
