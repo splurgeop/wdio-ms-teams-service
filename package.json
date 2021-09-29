@@ -49,7 +49,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/marcelblijleven/wdio-ms-teams-service.git"
+        "url": "https://github.com/splurgeop/wdio-ms-teams-service.git"
     },
     "keywords": [
         "webdriverio",
@@ -60,7 +60,7 @@
     "author": "Marcel Blijleven <marcelblijleven@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/marcelblijleven/wdio-ms-teams-service/issues"
+        "url": "https://github.com/splurgeop/wdio-ms-teams-service/issues"
     },
-    "homepage": "https://github.com/marcelblijleven/wdio-ms-teams-service#readme"
+    "homepage": "https://github.com/splurgeop/wdio-ms-teams-service#readme"
 }
